@@ -1,0 +1,6 @@
+{
+  "name": "Kaushal Setu",
+  "description": "Turn local job demand into better training. Skill-development demand analysis, curriculum alignment, employer concurrence, and district training plan platform for Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
